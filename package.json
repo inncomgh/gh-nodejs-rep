@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/inncomgh/inncom-google-home/issues"
   },
-  "homepage": "https://github.com/inncomgh/inncom-google-home#readme"
+  "homepage": "https://github.com/inncomgh/inncom-google-home#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
