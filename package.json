@@ -1,0 +1,19 @@
+{
+  "name": "ghwebhook",
+  "version": "1.0.0",
+  "description": "\"Google Home Webhook\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inncomgh/inncom-google-home.git"
+  },
+  "author": "Jorge Calles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inncomgh/inncom-google-home/issues"
+  },
+  "homepage": "https://github.com/inncomgh/inncom-google-home#readme"
+}
